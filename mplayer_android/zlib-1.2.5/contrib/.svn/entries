@@ -1,0 +1,122 @@
+10
+
+dir
+2093
+svn+ssh://barrychiang@172.26.201.31/home/svn/mplayer/trunk/zlib-1.2.5/contrib
+svn+ssh://barrychiang@172.26.201.31/home/svn/mplayer
+
+
+
+2011-06-30T03:30:47.724307Z
+1614
+charleslin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5493a2c4-fc24-4f47-881e-ca8abdfc4824
+
+minizip
+dir
+
+iostream
+dir
+
+asm686
+dir
+
+ada
+dir
+
+infback9
+dir
+
+README.contrib
+file
+
+
+
+
+2012-10-15T03:31:44.000000Z
+fe1aa939bc61cde4afc0d1ea23b01ed5
+2011-06-30T03:30:47.724307Z
+1614
+charleslin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3120
+
+vstudio
+dir
+
+masmx64
+dir
+
+inflate86
+dir
+
+puff
+dir
+
+testzlib
+dir
+
+masmx86
+dir
+
+pascal
+dir
+
+gcc_gvmat64
+dir
+
+delphi
+dir
+
+iostream2
+dir
+
+blast
+dir
+
+iostream3
+dir
+
+dotzlib
+dir
+
+untgz
+dir
+
+amd64
+dir
+

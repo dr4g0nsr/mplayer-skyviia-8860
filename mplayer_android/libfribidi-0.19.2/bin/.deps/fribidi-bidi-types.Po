@@ -1,0 +1,108 @@
+fribidi-bidi-types.o: fribidi-bidi-types.c \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/stdio.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/features.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/sys/cdefs.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/wordsize.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/gnu/stubs.h \
+  /usr/local/arm/4.3.2/lib/gcc/arm-linux/4.3.2/include/stddef.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/types.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/typesizes.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/libio.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/_G_config.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/wchar.h \
+  /usr/local/arm/4.3.2/lib/gcc/arm-linux/4.3.2/include/stdarg.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/stdio_lim.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/sys_errlist.h \
+  /usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/stdio.h \
+  ../lib/fribidi.h ../lib/fribidi-common.h ../lib/fribidi-config.h \
+  ../lib/fribidi-unicode.h ../lib/fribidi-types.h \
+  ../lib/fribidi-begindecls.h ../lib/fribidi-enddecls.h \
+  ../lib/fribidi-unicode-version.h ../lib/fribidi-flags.h \
+  ../lib/fribidi-bidi-types.h ../lib/fribidi-bidi-types-list.h \
+  ../lib/fribidi-bidi.h ../lib/fribidi-joining-types.h \
+  ../lib/fribidi-joining-types-list.h ../lib/fribidi-joining.h \
+  ../lib/fribidi-mirroring.h ../lib/fribidi-arabic.h \
+  ../lib/fribidi-shape.h ../charset/fribidi-char-sets.h \
+  ../lib/fribidi-common.h ../lib/fribidi-types.h \
+  ../lib/fribidi-begindecls.h ../charset/fribidi-char-sets-list.h \
+  ../lib/fribidi-enddecls.h ../lib/fribidi-deprecated.h
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/stdio.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/features.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/sys/cdefs.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/wordsize.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/gnu/stubs.h:
+
+/usr/local/arm/4.3.2/lib/gcc/arm-linux/4.3.2/include/stddef.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/types.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/typesizes.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/libio.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/_G_config.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/wchar.h:
+
+/usr/local/arm/4.3.2/lib/gcc/arm-linux/4.3.2/include/stdarg.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/stdio_lim.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/sys_errlist.h:
+
+/usr/local/arm/4.3.2/arm-linux/sys-root/usr/include/bits/stdio.h:
+
+../lib/fribidi.h:
+
+../lib/fribidi-common.h:
+
+../lib/fribidi-config.h:
+
+../lib/fribidi-unicode.h:
+
+../lib/fribidi-types.h:
+
+../lib/fribidi-begindecls.h:
+
+../lib/fribidi-enddecls.h:
+
+../lib/fribidi-unicode-version.h:
+
+../lib/fribidi-flags.h:
+
+../lib/fribidi-bidi-types.h:
+
+../lib/fribidi-bidi-types-list.h:
+
+../lib/fribidi-bidi.h:
+
+../lib/fribidi-joining-types.h:
+
+../lib/fribidi-joining-types-list.h:
+
+../lib/fribidi-joining.h:
+
+../lib/fribidi-mirroring.h:
+
+../lib/fribidi-arabic.h:
+
+../lib/fribidi-shape.h:
+
+../charset/fribidi-char-sets.h:
+
+../lib/fribidi-common.h:
+
+../lib/fribidi-types.h:
+
+../lib/fribidi-begindecls.h:
+
+../charset/fribidi-char-sets-list.h:
+
+../lib/fribidi-enddecls.h:
+
+../lib/fribidi-deprecated.h:
